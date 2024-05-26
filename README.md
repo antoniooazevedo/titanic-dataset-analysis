@@ -16,3 +16,20 @@
 | 12  | Boat       | Lifeboat |
 | 13  | Body       | Body number (if did not survive and body was recovered) |
 | 14  | Home_dest  | Destination |
+
+--- 
+
+# How to run
+
+## Dependencies
+
+To run the code, it's necessary to have the following packages: 
+
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- imbalanced-learn
+
+Installing the packages can be done by running `pip install <Package-Name>`
