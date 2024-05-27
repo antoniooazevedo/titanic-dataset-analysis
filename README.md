@@ -33,3 +33,7 @@ To run the code, it's necessary to have the following packages:
 - imbalanced-learn
 
 Installing the packages can be done by running `pip install <Package-Name>`
+
+## Running the code
+
+To run the code, execute each notebook cell in order or press the button `run all` to run all cells at order.
